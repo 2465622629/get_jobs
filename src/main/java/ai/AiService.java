@@ -15,8 +15,8 @@ import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
 /**
- * @author loks666
- * 项目链接: <a href="https://github.com/loks666/get_jobs">https://github.com/loks666/get_jobs</a>
+ *   
+ *  
  */
 @Slf4j
 public class AiService {
